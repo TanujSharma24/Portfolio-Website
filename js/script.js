@@ -57,7 +57,7 @@ sr.reveal(`.section-title, .section-subtitle-container`, {
     interval: 350
 });
     
-sr.reveal('.portfolio-card', { interval: 550 });
+sr.reveal('.portfolio-card', { interval: 500 });
 sr.reveal(`.form-container, .footer`, {
     origin: top,
 });
